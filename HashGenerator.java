@@ -8,7 +8,6 @@ public class HashGenerator {
 
         Scanner sc = new Scanner(System.in);
 
-        // Display menu
         System.out.println("Choose Hash Algorithm:");
         System.out.println("1. MD5");
         System.out.println("2. SHA-1");
